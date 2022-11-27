@@ -1,4 +1,4 @@
-# Employee_Tracking_System
+# Online_Employee_Tracking_System
 
 Human resource management is becoming increasingly complex and important in today's dynamic environment. Employee management is critical in any organization. It is a common practice in all workplaces. Because of the rise in security breaches and transaction fraud, organizations are increasingly concerned about employee identification and personal verification technologies. Every organization, large or small, faces human resource challenges. 
 
